@@ -11,9 +11,11 @@ For example, we could tell our browser that some content is a paragraph element 
 <p>Answer all riddles correctly to find your way out...</p>
 ```
 
-We have been talking about *tags* and *elements* for a while now, so let's have a look at what exactly we are talking about. [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a very helpful website made this overview:
+We have been talking about *tags* and *elements* for a while now, so let's have a look at what exactly we are talking about. [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started), a very helpful website for developers, made this overview:
 
 ![html element](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png)
+
+🙋 *If ever your page does not look like what you expected it to look like, check if all your elements have an opening and a closing tag! Indentation helps with this (you only have to scroll down to the next tag you come across), another of my favorite ways to check is by checking with `ctrl + F` or `cmd + F` and checking if there are an equal number of `<p>` and `</p>`, `<h1>` and </h1>, etc.*
 
 Everything on your html page should be an element. Tags tell your browser what sort of element it is. Another example of a tag is the `<h1>` tag. You can use it for headings:
 
@@ -38,7 +40,7 @@ Everything on your html page should be an element. Tags tell your browser what s
 
 >  🎓 **Examples of other elements are: `<h2></h2>`, `<h6></h6>`, `<ul></ul>`, `<ol></ol>`, can you figure out what they do? Check out [this awesome MDN article](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) for help and some more useful elements. Make sure to try them on your page!**
 
->  🎓 **Add the content that you created in the last exercise to your page. Make sure everything is wrapped in an element with appropriate tags. My code looks something like this, now:**
+>  🎓 **Add the content that you created in the first exercise to your page. Make sure everything is wrapped in an element with appropriate tags. My code looks something like this, now:**
 
 ```HTML
 <!DOCTYPE html>
@@ -57,3 +59,10 @@ Everything on your html page should be an element. Tags tell your browser what s
   </body>
 </html>
 ```
+>  🎓 **Write a text that your players will see when they loose**
+
+>  🎓 **In the same folder as you `index.html`, create a file `loose.html`**
+
+>  🎓 **Add the basic html structure to that page. Make sure you have a DOCTYPE, an `<html> </html>` element, a `<head> </head>` element with a `<meta>` and `<title> </title>` element and a `<body> </body>` element**
+
+>  🎓 **Add the text you wrote inside your `<body> </body>` element. Don't forget to wrap all your text in tags!**
