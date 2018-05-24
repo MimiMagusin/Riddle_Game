@@ -15,7 +15,7 @@ We have been talking about *tags* and *elements* for a while now, so let's have 
 
 ![html element](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png)
 
-🙋 *If ever your page does not look like what you expected it to look like, check if all your elements have an opening and a closing tag! Indentation helps with this (you only have to scroll down to the next tag you come across), another of my favorite ways to check is by checking with `ctrl + F` or `cmd + F` and checking if there are an equal number of `<p>` and `</p>`, `<h1>` and </h1>, etc.*
+🙋 *If ever your page does not look like what you expected it to look like, check if all your elements have an opening and a closing tag! Indentation helps with this (you only have to scroll down to the next tag you come across), another of my favorite ways to check is by checking with `ctrl + F` or `cmd + F` and checking if there are an equal number of `<p>` and `</p>`, `<h1>` and `</h1>`, etc.*
 
 Everything on your html page should be an element. Tags tell your browser what sort of element it is. Another example of a tag is the `<h1>` tag. You can use it for headings:
 
