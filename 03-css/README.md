@@ -1,6 +1,6 @@
 # CSS: Colors, Fonts and Backgrounds
 
-Your page index page looks something like this:
+Your index page looks something like this:
 
 ![Index Page](RG_index_unstyled.png)
 
