@@ -7,8 +7,9 @@ If you complete all steps, you will...
 * ... know what HTML, CSS and JavaScript are used for
 * ... have mastered the basics of HTML
 * ... understand how to apply basic CSS
-* ... know what a DOM is
 * ... know how to use JavaScript to influence your DOM
+* ... know what indentation is
+* ... know what a DOM is
 * ... have put your game online so everyone can play it
 
 In our version of the game, you are stuck in the infamous labyrinth of life and death. The only way of getting out is by answering all the riddles correctly. Therefore, our game looks something like this:
