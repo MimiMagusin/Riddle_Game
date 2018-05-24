@@ -1,0 +1,25 @@
+body {
+        color: wheat;
+        background-image: url(images/doors.jpg);
+        font-family: fantasy;
+        display: flex;
+        flex-flow: row;
+        padding: 2rem 2rem;
+      }
+      img {
+        height: 30rem;
+        margin-top: 10rem;
+      }
+      .text {
+        background-color: black;
+        width: 40rem;
+        height: 40rem;
+        margin: auto;
+        padding: 2rem;
+        text-align: center;
+        border: solid 1px wheat;
+        border-radius: 50%;
+      }
+      h1{
+        margin-top: 6rem;
+      }

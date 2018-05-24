@@ -1,0 +1,11 @@
+body {
+  color: wheat;
+  background-image: url(forest.jpg);
+  font-family: fantasy;
+}
+img {
+  height: 20rem;
+}
+.text {
+  background-color: black;
+}
