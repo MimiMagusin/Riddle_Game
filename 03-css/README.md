@@ -73,7 +73,7 @@ body {
 
 >  🎓 **Change the url to the image address of a picture you like. You can find some cool images under the creative commons copyright [here](https://search.creativecommons.org/). Right click on the image and choose 'copy image address'**
 
-Now, that looks way cooler already! The text might be easier to read if we would give it a steady background color though. Let's add a background color specifically behind the text. First we have to wrap all our text in  a 'container'. We'll call the box 'text'. This is the way to do so:
+Now, that looks way cooler already! The text might be easier to read if we would give it a steady background color though. Let's add a background color specifically behind the text. First we have to wrap all our text in  a 'container'. We'll give that container the name 'text'. We can do that by giving it a class. This is the way to do so:
 
 ```HTML
 
