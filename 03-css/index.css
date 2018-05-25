@@ -1,8 +1,8 @@
 body {
   color: wheat;
+  font-family: MedievalSharp, fantasy;
   background-image: url(https://cdn.pixabay.com/photo/2016/10/24/23/11/doors-1767562_1280.jpg);
   background-size: cover;
-  font-family: fantasy;
 }
 
 img {
