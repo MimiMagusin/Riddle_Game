@@ -1,11 +1,11 @@
 # Tags and elements
 
-> **🎯 By the end of this part, you will...
+>🎯 By the end of this part, you will...
 > 1. understand what is HTML is used for
 > 2. know what an element is
 > 3. know the basic structure of an html-page
 > 4. know what tags are
-> 5. be able to set display some basic content through html**
+> 5. be able to set display some basic content through html
 
 Now it is time to add our content! We not only should provide the browser
 with the content itself, but also with its function. Is it a heading? A paragraph? An image?
