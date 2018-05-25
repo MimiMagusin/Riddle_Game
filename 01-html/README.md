@@ -1,5 +1,11 @@
 # Making our browser understand
 
+> ## Learning Goals
+> 🎯 By the end of this part, you will...
+> 1. understand what HTML is used for
+> 2. know the basic structure of an HTML file
+> 3. be all set up for the next steps
+
 ## But first.... content
 
 We'll start our game with introducing our story line. Let's start with the content. In our case, that will be:
