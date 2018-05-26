@@ -9,14 +9,14 @@ body {
 }
 
 img {
-  height: 20rem;
+  height: 30rem;
   margin-top: 10rem;
 }
 
 .text {
   background-color: black;
-  width: 40rem;
-  height: 40rem;
+  width: 35rem;
+  height: 35rem;
   margin: auto;
   padding: 2rem;
   text-align: center;
